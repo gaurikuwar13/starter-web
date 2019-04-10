@@ -6,3 +6,5 @@ Adding a line for rebasing example , MORE CHANHGES FROM MYFEATURE BRANCH TIO
 ## Purpose
 
 Sample website with plenty of files for demos
+
+All rights reserved 
