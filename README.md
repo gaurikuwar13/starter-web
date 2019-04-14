@@ -10,3 +10,6 @@ Adding some value to Deployment --> video adding text under Purpose
 ##How to contribute 
 
 Adding values after the vaue is placed in staging area.
+
+### Copyright
+All rights reeserved
