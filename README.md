@@ -1,10 +1,6 @@
-# Starter Web Repo
+# Starter Web project
 
-This repository is for showing how Git and GitHub work
-Adding a line for rebasing example , MORE CHANHGES FROM MYFEATURE BRANCH TIO
+## introduction
+##Purpose 
 
-## Purpose
-
-Sample website with plenty of files for demos
-
-All rights reserved 
+##How to contribute 
