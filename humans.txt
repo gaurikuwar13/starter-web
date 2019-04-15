@@ -8,6 +8,7 @@
 # THANKS
 
     Thanks for the beautiful git course Please leave a review
+	This is for stash in branch
 
 # TECHNOLOGY COLOPHON
 
